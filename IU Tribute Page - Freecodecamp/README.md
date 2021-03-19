@@ -1,2 +1,0 @@
-﻿# IU-Tribute-Page---Freecodecamp
-
